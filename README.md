@@ -1,2 +1,2 @@
-# hackerrank
+# Hackerrank
 Hackerrank interview questions answers
